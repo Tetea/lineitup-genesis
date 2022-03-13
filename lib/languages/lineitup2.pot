@@ -1,0 +1,892 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Line It Up 2 Child Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Apr 07 2015 10:25:14 GMT-0300 (ADT)\n"
+"POT-Revision-Date: Tue Apr 07 2015 10:25:18 GMT-0300 (ADT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: /functions.php:121
+msgid "Toggle Mobile Menu"
+msgstr ""
+
+#: /functions.php:159
+msgid "Blog"
+msgstr ""
+
+#: /functions.php:160 /functions.php:161
+msgid "Shop"
+msgstr ""
+
+#: /functions.php:162
+msgid "Search"
+msgstr ""
+
+#: /functions.php:163
+msgid "Archives"
+msgstr ""
+
+#: /functions.php:164
+msgid "Page not Found"
+msgstr ""
+
+#: /functions.php:235
+msgid "Read More"
+msgstr ""
+
+#: /functions.php:241
+msgid "Discussion"
+msgstr ""
+
+#: /functions.php:254
+msgid "Reply to This Comment"
+msgstr ""
+
+#: /functions.php:261
+msgid "Previous Page"
+msgstr ""
+
+#: /functions.php:266
+msgid "Next Page"
+msgstr ""
+
+#: /page_home.php:165
+msgid "Your email address"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:44
+msgid "Default"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:44
+msgid "Green"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:44
+msgid "Red"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:44
+msgid "Pink"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:44
+msgid "Orange"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:44
+msgid "Dark"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:74
+msgid "Information"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:75
+msgid "Slider"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:76
+msgid "Front Page Options"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:77
+msgid "Appearance"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:78
+msgid "General Options"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:79
+msgid "Footer"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:88
+msgid "Version:"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:89
+msgid ""
+"For support, please visit <a href=\"http://themedy.com/forum/\">http://themedy."
+"com/forum/</a>"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:95
+msgid "Allow height of the slider to adjust on each slide?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:98
+msgid "Transition Effect:"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:100
+msgid "Slide"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:101
+msgid "Fade"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:103
+msgid "Slide Pause (ms):"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:106
+msgid "Slide Transition Speed (ms):"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:112
+msgid "Enable the featured slider?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:114
+msgid "Enable the features area?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:115
+msgid "Enable the subscribe area?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:116
+msgid "Enable the testimonial area?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:118
+msgid "Testimonial Area Title"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:120
+msgid "Subscribe Area Title"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:122
+msgid "Subscribe Area Text"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:124
+msgid ""
+"Fill out your form action URL and email input name/ID below "
+"<strong>OR</strong> input your full custom form code below (will overwrite "
+"and may need to be custom styled)."
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:126
+msgid "Form Action URL"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:128
+msgid "Email Input Name or ID"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:130
+msgid "Submit Button Text"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:133
+msgid ""
+"Custom <code>&#60;form&#62;</code> HTML Code or contact form "
+"<code>[shortcode]</code>"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:139
+msgid "Primary Color:"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:142
+msgid ""
+"You can change the header image <a href=\"themes.php?page=custom-header/\">by "
+"clicking here</a>."
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:147
+msgid "Enable jQuery retina-ready images?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:148
+msgid "Use the <strong>jQuery Mobile Menu</strong>?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:149
+msgid "Show <strong>Title and Tag</strong> area across site?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:151
+msgid "Show <strong>WooCommerce</strong> shopping cart across site?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:154
+msgid "Custom Blog Title:"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:156
+msgid "Custom Blog Tag:"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:162
+msgid "Use custom footer text?"
+msgstr ""
+
+#: /lib/admin/lineitup-settings.php:164
+msgid "Footer text"
+msgstr ""
+
+#: /lib/admin/themedy-customizer.php:39
+msgid "Primary Color"
+msgstr ""
+
+#: /lib/admin/themedy-settings.php:10 /lib/admin/themedy-settings.php:10
+msgid "Themedy Settings"
+msgstr ""
+
+#: /lib/admin/themedy-settings.php:51
+msgid "Theme Settings Reset"
+msgstr ""
+
+#: /lib/admin/themedy-settings.php:54 /lib/admin/themedy-settings.php:57
+msgid "Theme Settings Saved"
+msgstr ""
+
+#: /lib/admin/themedy-settings.php:109 /lib/admin/themedy-settings.php:129
+msgid "Save Settings"
+msgstr ""
+
+#: /lib/admin/themedy-settings.php:110 /lib/admin/themedy-settings.php:130
+msgid "Reset Settings"
+msgstr ""
+
+#: /lib/admin/themedy-settings.php:110 /lib/admin/themedy-settings.php:130
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:13
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:14
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:15
+msgid "Testimonials"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:16
+msgid "Parent Item:"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:17
+msgid "All Testimonials"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:18
+msgid "View Testimonial"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:19
+msgid "Add New Testimonial"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:20 /lib/functions/themedy-cpt.php:87
+msgid "Add New"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:21
+msgid "Edit Testimonial"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:22
+msgid "Update Testimonial"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:23
+msgid "Search Testimonials"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:24 /lib/functions/themedy-cpt.php:91
+msgid "No items found."
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:25 /lib/functions/themedy-cpt.php:92
+msgid "No items found in trash."
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:49
+msgctxt "Taxonomy General Name"
+msgid "Organizations"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:50
+msgctxt "Taxonomy Singular Name"
+msgid "Organization"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:51
+msgid "Organizations"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:52
+msgid "All Organizations"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:53
+msgid "Parent Organization"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:54
+msgid "Parent Organization:"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:55
+msgid "New Organization Name"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:56
+msgid "Add New Organization"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:57
+msgid "Edit Organization"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:58
+msgid "Update Organization"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:59
+msgid "Separate items with commas"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:60
+msgid "Search Organizations"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:61
+msgid "Add or remove items"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:62
+msgid "Choose from the most used items"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:80
+msgctxt "Post Type General Name"
+msgid "Features"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:81
+msgctxt "Post Type Singular Name"
+msgid "Feature"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:82
+msgid "Features"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:83
+msgid "Parent Feature:"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:84
+msgid "All Features"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:85
+msgid "View Feature"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:86
+msgid "Add New Feature"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:88
+msgid "Edit Feature"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:89
+msgid "Update Feature"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:90
+msgid "Search Features"
+msgstr ""
+
+#: /lib/functions/themedy-cpt.php:139
+msgid "Image"
+msgstr ""
+
+#: /lib/functions/themedy-metaboxes.php:6
+msgid "Themedy Options"
+msgstr ""
+
+#: /lib/functions/themedy-metaboxes.php:12
+msgid "Custom Title"
+msgstr ""
+
+#: /lib/functions/themedy-metaboxes.php:14
+msgid "Custom Tagline"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:16
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:17
+msgctxt "post type singular name"
+msgid "Portfolio Item"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:18
+msgctxt "Portfolio Item"
+msgid "Add New"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:19
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:20
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:21
+msgid "New Portfolio Item"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:22
+msgid "View Portfolio Item"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:23
+msgid "Search Portfolio"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:24
+msgid "No portfolio items found"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:25
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:105
+msgid "Category"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:106
+msgid "Portfolio Category ID"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:108
+msgid "[ Show All Items ]"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:117
+msgid "Items per Page"
+msgstr ""
+
+#: /lib/functions/themedy-portfolio.php:120
+msgid "Excerpt Length"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:13
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:14
+msgctxt "post type singular name"
+msgid "slide"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:15
+msgctxt "Slide"
+msgid "Add New"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:16
+msgid "Add New Slide"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:17
+msgid "Edit Slide"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:18
+msgid "New Slide"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:19
+msgid "View Slides"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:20
+msgid "Search Slides"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:21
+msgid "No Slides found"
+msgstr ""
+
+#: /lib/functions/themedy-slides.php:22
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: /lib/functions/themedy-woocommerce.php:57
+msgid "Primary Product Sidebar"
+msgstr ""
+
+#: /lib/functions/themedy-woocommerce.php:60
+#, php-format
+msgid ""
+"This is the Primary Product Sidebar. You can add content to this area by "
+"visiting your <a href=\"%s\">Widgets Panel</a> and adding new widgets to this "
+"area."
+msgstr ""
+
+#: /lib/functions/themedy-woocommerce.php:72
+msgid "Secondary Product Sidebar"
+msgstr ""
+
+#: /lib/functions/themedy-woocommerce.php:75
+#, php-format
+msgid ""
+"This is the Secondary Product Sidebar. You can add content to this area by "
+"visiting your <a href=\"%s\">Widgets Panel</a> and adding new widgets to this "
+"area."
+msgstr ""
+
+#: /lib/functions/themedy-woocommerce.php:119 /lib/functions/themedy-woocommerce.
+#: php:132
+msgid "View your shopping cart"
+msgstr ""
+
+#: /lib/functions/themedy-woocommerce.php:119 /lib/functions/themedy-woocommerce.
+#: php:132
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:161 /lib/plugins/plugins.php:75
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:162 /lib/plugins/plugins.php:76
+msgid "Install Plugins"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:163 /lib/plugins/plugins.php:77
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:165 /lib/plugins/plugins.php:79
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:166 /lib/plugins/plugins.php:80
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:167 /lib/plugins/plugins.php:81
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:168 /lib/plugins/plugins.php:82
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:169 /lib/plugins/plugins.php:83
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:170 /lib/plugins/plugins.php:84
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:171 /lib/plugins/plugins.php:85
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:172 /lib/plugins/plugins.php:86
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:173 /lib/plugins/plugins.php:87
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:174 /lib/plugins/plugins.php:88
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:175 /lib/plugins/plugins.php:89
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:177 /lib/plugins/class-tgm-plugin-
+#: activation.php:1945 /lib/plugins/plugins.php:90
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:178 /lib/plugins/class-tgm-plugin-
+#: activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:534 /lib/plugins/class-tgm-plugin-
+#: activation.php:534 /lib/plugins/class-tgm-plugin-activation.php:2162 
+#: /lib/plugins/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1290 /lib/plugins/class-tgm-
+#: plugin-activation.php:1290 /lib/plugins/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1312 /lib/plugins/class-tgm-
+#: plugin-activation.php:1312 /lib/plugins/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2059 /lib/plugins/class-tgm-
+#: plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2059 /lib/plugins/class-tgm-
+#: plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: /lib/plugins/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /lib/plugins/plugins.php:78
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /lib/plugins/plugins.php:91
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""

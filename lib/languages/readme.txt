@@ -1,0 +1,1 @@
+Please see http://help.themedy.com/General/Translating_Themes to generate your .po / .mo files
